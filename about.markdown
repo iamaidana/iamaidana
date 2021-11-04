@@ -4,15 +4,26 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<h2>Frequently Asked Questions</h2>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<ul>
+  <li>Could you please introduce yourself?</li>
+</ul>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Hi everyone! My name is Aidana, born and raised in Kazakhstan, currently based in Belgium though. 
 
+<ul>
+  <li>What is your educational background?</li>
+</ul>
+
+I earned my Master's degree in Electrical Engineering in 2017 from Harbin Institute of Technology in China and my Bachelor's degree in Electrical Engineering in 2014 from Karaganda State Technical University in Kazakhstan.
+
+<ul>
+  <li>What are your hobbies?</li>
+</ul>
+
+My long-time passion is photography. I am still an amateur photographer, still have a lot of things to learn, but I truly enjoy the process of taking pictures and tweaking a mode dial to find a right balance of apurture and shutter speed.
+
+I am also a notable bookworm. My first conscious book was *Charlie and the Chocolate Factory*. Then *Harry Potter* happened to me: my father used to give me one book from a series each holiday as a gift. At the moment my favorite genre is magical realism, I can literally devour any book that is written in that genre. 
 
 [jekyll-organization]: https://github.com/jekyll
