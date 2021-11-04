@@ -24,10 +24,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hi! I am Aidana, an amateur photographer and traveller passionate
   about cycling to different locations, making beautiful photos and
   reading as many books as I can.
-baseurl: "/iamaidana" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://iamaidana.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: iamaidana
 github_username:  iamaidana
+repository: "iamaidana/iamaidana.github.io"
+
 
 # Build settings
 theme: minima
