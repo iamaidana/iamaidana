@@ -4,5 +4,4 @@ title: Resume
 permalink: /resume/
 ---
 
-<object data="{{ site.url }}{{ site.baseurl }}/_pdfs/CV_Aidana.pdf" width="1000" height="1000" type="application/pdf"></object>
-
+<iframe src="https://drive.google.com/file/d/1kWfv6P9dvEPt2v764-yJ3oX3bk32VoRk/preview" width="640" height="480" allow="autoplay"></iframe>
