@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Resume
-layout: pdf
 permalink: /resume/
 ---
 
-<iframe src="https://drive.google.com/file/d/1kWfv6P9dvEPt2v764-yJ3oX3bk32VoRk/view?usp=sharing" width="100%" height="100%"></iframe>
+<object data="{{ site.url }}{{ site.baseurl }}/_pdfs/CV_Aidana.pdf" width="1000" height="1000" type="application/pdf"></object>
+
