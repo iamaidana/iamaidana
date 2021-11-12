@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+tagline: General information about me
 permalink: /about/
 ref: about
 order: 0
