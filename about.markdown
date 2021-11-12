@@ -2,6 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+ref: about
+order: 0
 ---
 
 <h2>Frequently Asked Questions</h2>

@@ -32,7 +32,7 @@ repository: "iamaidana/iamaidana.github.io"
 
 
 # Build settings
-theme: minima
+theme: 
 plugins:
   - jekyll-feed
 
