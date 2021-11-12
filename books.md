@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Books
+tagline: 2021 Reading List
 permalink: /books/
+order: 1
 ---
 
-<h2>2021 Reading List</h2>
-
+<h2>Finished books:</h2>
 <ol>
   <li>"Kafka on the Shore" by Haruki Murakami</li>
   <li>"Three Daughters of Eve" by Elif Shafak</li>
@@ -18,7 +19,6 @@ permalink: /books/
 </ol>
 
 <h3>Currently reading:</h3>
-
 <ol>
   <li>"Behind the Beautiful Forevers: Life, Death and Hope in a Mumbai Slum" by Katherine Boo</li>
   <li>"Journey by Moonlight" by Antal Szerb</li>
@@ -28,7 +28,6 @@ permalink: /books/
 </ol>
 
 <h3>Want to read:</h3>
-
 <ol>
   <li>"Japanese Lover" by Isabel Allende</li>
   <li>"Amsterdam" by Ian McEwan</li>
@@ -37,4 +36,3 @@ permalink: /books/
 </ol>
 
 
-[jekyll-organization]: https://github.com/jekyll

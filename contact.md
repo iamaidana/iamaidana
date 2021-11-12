@@ -3,7 +3,7 @@ layout: page
 title: Contact
 tagline: Contact Aidana for collaborations or suggestions. Get in touch with me through the contact form below!
 ref: contact
-order: 
+order: 4
 ---
 <form
   action="https://formspree.io/f/xjvjnger"
