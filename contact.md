@@ -5,10 +5,18 @@ tagline: Contact Aidana for collaborations or suggestions. Get in touch with me 
 ref: contact
 order: 
 ---
-<form method="POST" action="https://formspree.io/f/xjvjnger">
-  <input type="email" name="email" placeholder="Your email">
-  <input type="text" name="name" placeholder="Your name">
-  <textarea name="message" placeholder="Your message" rows="3">
-  </textarea>
-  <button type="submit">Send Message</button>
+<form
+  action="https://formspree.io/f/xjvjnger"
+  method="POST"
+  enctype="multipart/form-data"
+>
+  <label>
+    Your email:
+    <input type="email" name="_replyto">
+  </label>
+  <label>
+    Your file:
+    <input type="file" name="upload">
+  </label>
+  <button type="submit">Send</button>
 </form>
