@@ -2,8 +2,9 @@
 layout: page
 title: Books
 tagline: 2021 Reading List
-permalink: /books/
-order: 1
+permalink: /books.html
+ref: books
+order: 2
 ---
 
 <h2>Finished books:</h2>
@@ -35,4 +36,4 @@ order: 1
   <li>"Schindler's List" by Thomas Keneally</li>
 </ol>
 
-
+[Go to the Home Page]({{ '/' | absolute_url }})

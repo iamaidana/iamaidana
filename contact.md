@@ -3,7 +3,7 @@ layout: page
 title: Contact
 tagline: Contact Aidana for collaborations or suggestions. Get in touch with me through the contact form below!
 ref: contact
-order: 4
+order: 1
 ---
 <form
   action="https://formspree.io/f/xjvjnger"
@@ -20,3 +20,5 @@ order: 4
   </label>
   <button type="submit">Send</button>
 </form>
+
+[Go to the Home Page]({{ '/' | absolute_url }})
