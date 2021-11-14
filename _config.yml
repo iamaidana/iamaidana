@@ -22,7 +22,7 @@ plugins:
 
 # Exclude from processing.
 # social
-author: iamaidana
+author: by Aidana
 image: 
 instagram:
   username: iamaidana
@@ -30,7 +30,7 @@ instagram:
 target-blank:
     rel: nofollow
 
-header_page_refs: ['books', 'photos', 'resume', 'about', 'contact']
+header_page_refs: ['about', 'books', 'photos', 'resume', 'contact']
 
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
