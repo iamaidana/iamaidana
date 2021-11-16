@@ -7,6 +7,6 @@ ref: resume
 order: 4
 ---
 
-<iframe src="https://drive.google.com/file/d/1kWfv6P9dvEPt2v764-yJ3oX3bk32VoRk/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1mzzBh4GdX0Squ-e2DVX46m2wICOA_Zl_/preview" width="100%" height="100%" allow="autoplay"></iframe>
 
 [Go to the Home Page]({{ '/' | absolute_url }})
