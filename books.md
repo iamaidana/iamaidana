@@ -17,11 +17,11 @@ order: 2
   <li>"Mythos" by Stephen Fry</li>
   <li>"The Inheritance of Loss" by Kiran Desai</li>
   <li>"Фарфор" by Юрий Каракур</li>
+  <li>"Behind the Beautiful Forevers: Life, Death and Hope in a Mumbai Slum" by Katherine Boo</li>
 </ol>
 
 <h3>Currently reading:</h3>
 <ol>
-  <li>"Behind the Beautiful Forevers: Life, Death and Hope in a Mumbai Slum" by Katherine Boo</li>
   <li>"Journey by Moonlight" by Antal Szerb</li>
   <li>"Luka and the Fire of Life" by Salman Rushdie</li>
   <li>"The Blood of Flowers" by Anita Amirrezvani</li>
