@@ -4,7 +4,7 @@ title:  "A Post About My Favorite Sci-Fi Movies And TV Shows"
 date:   2021-11-21 18:34:58 +0100
 categories: 
 ---
-I have always been interested in science - you could find me reading encyclopedias, trying to fix things or to find logic behind things. Another part of me is a bid daydreamer - imagining new realities, parallel universes, time distortions. Therefore, there is no surprise that one of my favorite cinema genres would be sci-fi.
+I have always been interested in science - you could find me reading encyclopedias, trying to fix things or to find logic behind things. Another part of me is a big daydreamer - imagining new realities, parallel universes, time distortions. Therefore, there is no surprise that one of my favorite cinema genres would be sci-fi.
 
 What is sci-fi? According to wikipedia: science fiction (sometimes shortened to sci-fi or SF) is a genre of speculative fiction that typically deals with imaginative and futuristic concepts such as advanced science and technology, space exploration, time travel, parallel universes, and extraterrestrial life. One may find sci-fi a pure human imagination; however, when scientifically accurate, sci-fi narratives help to legitimate some research fields among the public opinion. Sci-fi has inspired many technological innovations. Its influence is present in the invention, conceptualization, design and application of interfaces and technology. As an avenue of creativity and expression both, sci-fi literature and media have fueled advancements in interactive technology and proven to be a key source of inspiration for researchers in the field of computing technology.
 
@@ -15,7 +15,7 @@ Note: This list is not ranked.
 <ul>
   <li> <p><a href="https://www.netflix.com/be-en/title/70131314" title="hp">Inception</a></p>  
 <p>Dom Cobb is a thief with the rare ability to enter people's dreams and steal their secrets from their subconscious. His skill has made him a hot commodity in the world of corporate espionage but has also cost him everything he loves. Cobb gets a chance at redemption when he is offered a seemingly impossible task: Plant an idea in someone's mind. If he succeeds, it will be the perfect crime, but a dangerous enemy anticipates Cobb's every move.</p> 
-<p><img src="https://s3.amazonaws.com/static.rogerebert.com/uploads/movie/movie_poster/inception-2010/large_ziKvu3Th9l1wN2aIeVj5ElpBqFu.jpg"/></p>   
+<p><img src="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/685ecb434ec1e6e6caba39375cbfd1b4a6f97bfe575f74b2cfe7a3c6b7eabf05._RI_V_TTW_.jpg"/></p>   
   </li>
 </ul>
 
@@ -29,7 +29,7 @@ Note: This list is not ranked.
 <ul>
   <li> <p><a href="https://tv.apple.com/movie/tenet/umc.cmc.198i48vdau0mtd8gtsdxjtz9w?itscg=30200&itsct=tv_box" title="hp">Tenet</a></p>  
 <p>A secret agent is given a single word as his weapon and sent to prevent the onset of World War III. He must travel through time and bend the laws of nature in order to be successful in his mission.</p> 
-<p><img src="https://irs.www.warnerbros.be/keyart-jpeg/movies/media/browser/tenet_nl_keyart.jpg"/></p>   
+<p><img src="https://www.schamper.ugent.be/files/images/tenet1.jpg"/></p>   
   </li>
 </ul>
 
@@ -92,7 +92,7 @@ Note: This list is not ranked.
 <ul>
   <li><p><a href="https://www.netflix.com/be-en/title/80211627" title="hp">Russian Doll</a></p> 
 <p>Russian Doll follows a woman named Nadia who is caught in a time loop as the guest of honor at a seemingly inescapable party one night in New York City. She dies repeatedly, always restarting at the same moment at the party, as she tries to figure out what is happening to her.</p> 
-<p><img src="https://m.media-amazon.com/images/M/MV5BYmViMjdhZmQtODIyZi00Mzc4LWFhNTItOTk4NGM1NGU0ZDZjXkEyXkFqcGdeQXVyNjc2NTQzMjU@._V1_QL75_UX190_CR0,0,190,281_.jpg"/></p> 
+<p><img src="https://helios-i.mashable.com/imagery/articles/04Sr27ayBri8itZ8URD4haQ/hero-image.fill.size_1248x702.v1623375165.png"/></p> 
   </li>
 </ul>
 
