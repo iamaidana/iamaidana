@@ -36,4 +36,6 @@ order: 2
   <li>"Schindler's List" by Thomas Keneally</li>
 </ol>
 
+A list of my all-time favorite books can be found [here](https://iamaidana.github.io/2021/11/05/a-post-about-my-alltime-favorite-books.html).
+
 [Go to the Home Page]({{ '/' | absolute_url }})
