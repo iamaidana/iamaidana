@@ -72,7 +72,7 @@ David Attenborough has produced, written, narrated or presented well over one hu
 <ul>
   <li> <p><a href="https://www.netflix.com/be-en/title/81036559" title="hp">Life in Colour</a></p>  
 <p>Life In Color With David Attenborough is a 3-part docuseries where Attenborough describes how the animal kingdom not only communicate and survive through the use of color, but how some species see color in a way that humans can't.</p> 
-<p><img src="https://occ-0-92-1723.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABWDZqzSCvWV-bK6Pr-vmRGimDk1afWoe8AqkRXxvSOzEEC8iE5ohGmgckQB69lZ2Cb9UdPaqRIy61tNHkbR2ekdQ6AKCBYtUMsHyoWx1Nordm02AIEf0YGHAAwUxww.jpg?r=af4"/></p>   
+<p><img src="https://dedocupdate.files.wordpress.com/2021/04/life-in-colour-with-david-attenborough-netflix2.jpg"/></p>   
   </li>
 </ul>
 
@@ -86,14 +86,14 @@ David Attenborough has produced, written, narrated or presented well over one hu
 <ul>
   <li> <p><a href="https://www.bbc.co.uk/programmes/p010jc6p/episodes/player" title="hp">Africa</a></p>  
 <p>Africa, the world's wildest continent. David Attenborough takes us on an awe-inspiring journey through one of the most diverse places in the world.</p> 
-<p><img src="https://ichef.bbci.co.uk/images/ic/640x360/p0696j8f.jpg"/></p>   
+<p><img src="https://ichef.bbci.co.uk/images/ic/1200x675/p0696j8f.jpg"/></p>   
   </li>
 </ul>
 
 <ul>
   <li> <p><a href="https://www.bbc.co.uk/iplayer/episodes/m0010bc1/the-mating-game" title="hp">The Mating Game</a></p>  
 <p>Finding a mate isn't just about love - the survival of an entire species could depend on it. Sir David Attenborough reveals spectacular scenes of courting and companionship.</p> 
-<p><img src="https://cms.bbcearth.com/sites/default/files/2021-09/TMG_EP1_Episodics.jpg"/></p>   
+<p><img src="https://cms.bbcearth.com/sites/default/files/2021-09/The_Mating_Game_Hero_Iconic_Flamingo_1920x850_SDA_72dpi_RGB.jpg"/></p>   
   </li>
 </ul>
 
