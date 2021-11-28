@@ -18,6 +18,9 @@ order: 2
   <li>"The Inheritance of Loss" by Kiran Desai</li>
   <li>"Фарфор" by Юрий Каракур</li>
   <li>"Behind the Beautiful Forevers: Life, Death and Hope in a Mumbai Slum" by Katherine Boo</li>
+  <li>"The Storied Life of A.J. Fikry" by Gabrielle Zevin</li>
+  <li>"Confessions of a Bookseller" by Shaun Bythell</li>
+  <li>"The Diary of a Bookseller" by Shaun Bythell</li>
 </ol>
 
 <h3>Currently reading:</h3>
@@ -31,7 +34,6 @@ order: 2
 <h3>Want to read:</h3>
 <ol>
   <li>"Japanese Lover" by Isabel Allende</li>
-  <li>"Amsterdam" by Ian McEwan</li>
   <li>"The Strange and Beautiful Sorrows of Ava Lavender" by Leslye Walton</li>
   <li>"Schindler's List" by Thomas Keneally</li>
 </ol>
