@@ -2,7 +2,7 @@
 layout: post
 title:  "A Post About My Dutch Journey"
 date:   2021-11-04 18:34:58 +0100
-categories: 
+categories:
 ---
 I started using Duolingo app before moving to Belgium to learn the basics and right pronunciation. I moved to Antwerpen in June this year and to my surprise the pronunciation was different due to the fact that they speak Flemish here. Nevertheless, learning the language is required! Here is my experience learning Dutch/Flemish so far.
 
@@ -45,7 +45,7 @@ I think one of the best ways to learn about a language is through its culture. M
 
 <h3>To improve a CV</h3>
 
-It could be beneficial to sharpen language skills to improve a CV. Especially with living in Europe where most people speak an average of 2-3 languages. While there are many English-speaking companies there are more that prefer Ducth-speaking people. Or most companies would even prefer a multilingual candidate or one who was at least attempting to learn the language.
+It could be beneficial to sharpen language skills to improve a CV. Especially with living in Europe where most people speak an average of 2-3 languages. While there are many English-speaking companies there are more that prefer Dutch-speaking people. Or most companies would even prefer a multilingual candidate or one who was at least attempting to learn the language.
 
 <h3>To make new friends</h3>
 
