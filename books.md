@@ -21,6 +21,7 @@ order: 2
   <li>"The Storied Life of A.J. Fikry" by Gabrielle Zevin</li>
   <li>"Confessions of a Bookseller" by Shaun Bythell</li>
   <li>"The Diary of a Bookseller" by Shaun Bythell</li>
+  <li>"The Reading List" by Sara Nisha Adams</li>
 </ol>
 
 <h3>Currently reading:</h3>
@@ -30,16 +31,17 @@ order: 2
   <li>"Luka and the Fire of Life" by Salman Rushdie</li>
   <li>"The Blood of Flowers" by Anita Amirrezvani</li>
   <li>"Immune" by Philipp Dettmer</li>
+  <li>"Japanese Lover" by Isabel Allende</li>
 </ol>
 
 <h3>Want to read:</h3>
 <ol>
-  <li>"Japanese Lover" by Isabel Allende</li>
   <li>"The Strange and Beautiful Sorrows of Ava Lavender" by Leslye Walton</li>
   <li>"Schindler's List" by Thomas Keneally</li>
-  <li>"The Reading List" by Sara Nisha Adams</li>
+  <li>"Strange Weather in Tokyo" by Hiromi Kawakami</li>
   <li>"Under the Whispering Door" by T.J. Klune</li>
   <li>"Project Hail Mary" by Andy Weir</li>
+  <li>"The Time Traveller's Wife" by Audrey Niffenegger</li>
 </ol>
 
 A list of my all-time favorite books can be found [here](https://iamaidana.github.io/2021/11/05/a-post-about-my-alltime-favorite-books.html).
