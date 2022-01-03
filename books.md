@@ -7,9 +7,9 @@ ref: books
 order: 2
 ---
 
-<h2>Finished books:</h2>
-#<ol>
-#</ol>
+<h3>Finished books:</h3>
+<ol>to be continued
+  </ol>
 
 <h3>Currently reading:</h3>
 <ol>
@@ -31,7 +31,8 @@ order: 2
   <li>"The Time Traveller's Wife" by Audrey Niffenegger</li>
 </ol>
 
-#A list of books I read in 2021 can be found [here](https://iamaidana.github.io/2021/11/05/a-post-about-my-alltime-favorite-books.html).
+A list of books I read in 2021 can be found [here](https://iamaidana.github.io/2022/01/03/a-post-about-books-I-finished-in-2021.html).
+
 A list of my all-time favorite books can be found [here](https://iamaidana.github.io/2021/11/05/a-post-about-my-alltime-favorite-books.html).
 
 [Go to the Home Page]({{ '/' | absolute_url }})
