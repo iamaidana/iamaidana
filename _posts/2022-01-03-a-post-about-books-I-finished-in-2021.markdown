@@ -4,7 +4,10 @@ title:  "A Post About Books I Read In 2021"
 date:   2022-01-03 18:34:58 +0100
 categories: 
 ---
+
 In the beginning of the year I set a goal of completing at least 10 books. I overachieved the goal and read a total of 13 books. 
+
+The complete list can be found below.
 
 <ul>
   <li> <p><a href="https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore" title="hp">"Kafka on the Shore" by Haruki Murakami</a> - tells the stories of the young Kafka Tamura, a bookish 15-year-old boy who runs away from his Oedipal curse, and Satoru Nakata, an old, disabled man with the uncanny ability to talk to cats.</p> 
@@ -80,7 +83,7 @@ In the beginning of the year I set a goal of completing at least 10 books. I ove
 
 <ul>
   <li><p><a href="https://www.goodreads.com/book/show/55276648-the-reading-list?ac=1&from_search=true&qid=rKYFQ0esNd&rank=1" title="hp">"The Reading List" by Sara Nisha Adams</a> - is about how a chance encounter with a list of library books helps forge an unlikely friendship between two very different people in a London suburb.</p> 
-<p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1611366574l/55276648.jpg"/></p> 
+<p><img src="https://images-na.ssl-images-amazon.com/images/I/51urAkRcUaS._SX328_BO1,204,203,200_.jpg"/></p> 
   </li>
 </ul>
 
