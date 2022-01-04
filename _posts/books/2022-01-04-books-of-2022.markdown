@@ -1,0 +1,65 @@
+---
+layout: post
+title:  "Books I Read In 2022"
+category: books_post
+image: /assets/images/2022.png
+
+---
+
+Happy New Reading Year 2022! There’s something very exciting about a fresh reading year to me – not in the least because of the fact that I can put together a new list of books I want to read that year!
+
+The books on this list are my top priority for the year and I view them as the books that I have to read, no matter what. I usually choose books based on my current mood, but there’s actually one general rule: after every fiction book read a non-fiction one.
+
+Last year, there were quite a few books on the list that were pretty light-read. This year, I’ve decided to do the same and add a couple of easy-read books. Obviously, the list will be updated from time to time.
+
+<ul>
+  <li>"Brief Answers to the Big Questions" by Stephen Hawking</li>
+</ul>
+
+<ul>
+  <li>"Two Years Eight Months and Twenty-Eight Nights" by Salman Rushdie</li>
+</ul>
+
+<ul>
+  <li>"Journey by Moonlight" by Antal Szerb</li>
+</ul>
+
+<ul>
+  <li>"Luka and the Fire of Life" by Salman Rushdie</li>
+</ul>
+
+<ul>
+  <li>"The Blood of Flowers" by Anita Amirrezvani</li>
+</ul>
+
+<ul>
+  <li>"Immune" by Philipp Dettmer</li>
+</ul>
+
+<ul>
+  <li>"The Strange and Beautiful Sorrows of Ava Lavender" by Leslye Walton</li>
+</ul>
+
+<ul>
+  <li>"Schindler's List" by Thomas Keneally</li>
+</ul>
+
+<ul>
+  <li>"Strange Weather in Tokyo" by Hiromi Kawakami</li>
+</ul>
+
+<ul>
+  <li>"Under the Whispering Door" by T.J. Klune</li>
+</ul>
+
+<ul>
+  <li>"Project Hail Mary" by Andy Weir</li>
+</ul>
+
+<ul>
+  <li>"The Time Traveller's Wife" by Audrey Niffenegger</li>
+</ul>
+
+And that’s it! Those are the books on my list of books I “have” to read in 2022! Have you read any of these? Do you have any top priority books for 2022? 
+
+[Go to the Home Page]({{ '/' | absolute_url }})

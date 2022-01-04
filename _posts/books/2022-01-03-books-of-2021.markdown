@@ -8,6 +8,8 @@ image: /assets/images/2021.png
 
 In the beginning of the year I set a goal of completing at least 10 books. I overachieved the goal and read a total of 13 books. 
 
+To be honest, I enjoyed the overwhelming majority of them. There were about 5-7 books that I ended up giving high mark, and out of those, one book ended up in my list of absolute all-time favourites! 
+
 The complete list can be found below.
 
 <ul>
@@ -94,6 +96,7 @@ The complete list can be found below.
   </li>
 </ul>
 
+What was your favourite book of 2021?
 
 [Go to the Home Page]({{ '/' | absolute_url }})
 
