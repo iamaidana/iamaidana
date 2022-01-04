@@ -1,24 +1,21 @@
 ---
 layout: page
 ---
-<article>
 
-	<div class="grid">
+<div class="grid">
 
-	{%- if site.posts.size > 0 -%}
+  {%- if site.posts.size > 0 -%}
 
-		{%- for post in site.categories.books_post -%}
+      {%- for post in site.categories.books_post -%}
   
        
-			<a class="post-link" href="{{ post.url | relative_url }}">
-				<img src={{post.image | relative }} />
-			</a>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            <img src={{post.image | relative }} />
+          </a>
       
       
-		{%- endfor -%}
+      {%- endfor -%}
 
-	{%- endif -%}
+  {%- endif -%}
 
-	</div>
-
-</article>
+        </div>
