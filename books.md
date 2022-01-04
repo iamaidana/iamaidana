@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: books
 title: Books
-tagline: 2022 Reading List
+tagline: Aidana's Reading List
 permalink: /books.html
 ref: books
 order: 2
