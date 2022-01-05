@@ -27,7 +27,7 @@ Last year, there were quite a few books on the list that were pretty light-read.
 </ul>
 
 <ul>
-  <li> <p><a href="https://www.goodreads.com/book/show/158217.Journey_by_Moonlight?ac=1&from_search=true&qid=ouGQlroIu0&rank=1" title="hp"></a>"Journey by Moonlight" by Antal Szerb</p> 
+  <li> <p><a href="https://www.goodreads.com/en/book/show/158217" title="hp"></a>"Journey by Moonlight" by Antal Szerb</p> 
   <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563794508l/158217._SY475_.jpg"/></p>   
   <p><strong>Summary:</strong> The novel follows Mihály, a Budapest native from a bourgeois family on his honeymoon in Italy as he encounters and attempts to make sense of his past.</p> 
   </li>

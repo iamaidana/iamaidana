@@ -24,7 +24,7 @@ The complete list can be found below.
 <ul>
   <li><p><a href="https://www.goodreads.com/book/show/36429751-three-daughters-of-eve?ac=1&from_search=true&qid=LT0YVubdZF&rank=1" title="hp">"Three Daughters of Eve" by Elif Shafak</a></p> 
 <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508262311l/36429751._SY475_.jpg"/></p> 
-  <p><<strong>Summary:</strong> The book centres on a wealthy, middle-aged housewife, her childhood in Istanbul and her time as a student at Oxford University where she fell in love with a philosophy professor.</p>
+  <p><strong>Summary:</strong> The book centres on a wealthy, middle-aged housewife, her childhood in Istanbul and her time as a student at Oxford University where she fell in love with a philosophy professor.</p>
   <p><strong>My thoughts:</strong> I had my expectations high, therefore it was upsetting that the narration was rather slow and boring. I liked the open ending though.</p> 
   <p><strong>Rating:</strong> 5/10</p>
   </li>
