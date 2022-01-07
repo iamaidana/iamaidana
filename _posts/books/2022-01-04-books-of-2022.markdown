@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Books I Read In 2022"
+title:  "Reading List 2022"
 category: books_post
 image: /assets/images/2022.png
 
@@ -11,13 +11,6 @@ Happy New Reading Year 2022! There’s something very exciting about a fresh rea
 The books on this list are my top priority for the year and I view them as the books that I have to read, no matter what. I usually choose books based on my current mood, but there’s actually one general rule: after every fiction book read a non-fiction one.
 
 Last year, there were quite a few books on the list that were pretty light-read. This year, I’ve decided to do the same and add a couple of easy-read books. Obviously, the list will be updated from time to time.
-
-<ul>
-  <li> <p><a href="https://www.goodreads.com/book/show/40277241-brief-answers-to-the-big-questions" title="hp">"Brief Answers to the Big Questions" by Stephen Hawking</a></p> 
-  <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536862019l/40277241.jpg"/></p>   
-  <p><strong>Summary:</strong> The book examines some of the universe's greatest mysteries, and promotes the view that science is very important in helping to solve problems on planet Earth.</p>  
-  </li>
-</ul>
 
 <ul>
   <li> <p><a href="https://www.goodreads.com/book/show/24292310-two-years-eight-months-and-twenty-eight-nights?ac=1&from_search=true&qid=itivMStGsE&rank=1" title="hp">"Two Years Eight Months and Twenty-Eight Nights" by Salman Rushdie</a></p> 
@@ -103,10 +96,25 @@ Last year, there were quite a few books on the list that were pretty light-read.
   </li>
 </ul>
 
+
+
+<h2>Finished books so far:</h2>
+
+<ul>
+  <li> <p><a href="https://www.goodreads.com/book/show/40277241-brief-answers-to-the-big-questions" title="hp">"Brief Answers to the Big Questions" by Stephen Hawking</a></p> 
+  <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536862019l/40277241.jpg"/></p>   
+  <p><strong>Summary:</strong> The book examines some of the universe's greatest mysteries, and promotes the view that science is very important in helping to solve problems on planet Earth.</p>  
+  <p><strong>My thoughts:</strong> As a strong space-nerd I found this book really interesting. The descriptions and theories were easy to comprehend and overall I gained a lot of insight while reading this book.</p> 
+  <p><strong>Rating:</strong> 9/10</p></li>
+  </li>
+</ul>
+
 <ul>
   <li> <p><a href="https://www.goodreads.com/book/show/34377087-mrs-caliban?ac=1&from_search=true&qid=8wIxRKYTkr&rank=1" title="hp">"Mrs. Caliban" by Rachel Ingalls</a></p> 
   <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488557112l/34377087.jpg"/></p>   
   <p><strong>Summary:</strong> The slim surrealist masterpiece is the story of a romance between a lonely housewife and an amphibious humanoid named Larry.</p> 
+  <p><strong>My thoughts:</strong> Again too sentimental and romantic per my taste. Reminded me a lot of the movie "The Shape of Water" by Guillermo del Toro.</p> 
+  <p><strong>Rating:</strong> 4/10</p></li>
   </li>
 </ul>
 
