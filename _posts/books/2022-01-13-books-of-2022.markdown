@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "Books I've read in 2022 so far"
+category: books_post
+image: /assets/images/2022.png
+
+---
+
+The new reading year started pretty productive as I finished couple of books in the beginning of January. The routine is pretty much the same: I usually read for one-two hours before going to sleep.
+
+<h2>Currently reading:</h2>
+
+<ul>
+  <li> <p><a href="https://www.goodreads.com/book/show/18166936-the-strange-and-beautiful-sorrows-of-ava-lavender?ac=1&from_search=true&qid=geMYpZ5BP2&rank=1" title="hp">"The Strange and Beautiful Sorrows of Ava Lavender" by Leslye Walton</a></p> 
+  <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397110326l/18166936.jpg"/></p>   
+  <p><strong>Summary:</strong> Magical realism, lyrical prose, and the pain and passion of human love haunt this hypnotic generational saga.</p> 
+  <p><strong>Status:</strong> Started on 12/01/2022.</p>
+  </li>
+</ul>
+
+
+<h2>Finished books:</h2>
+
+<ul>
+  <li> <p><a href="https://www.goodreads.com/book/show/40277241-brief-answers-to-the-big-questions" title="hp">"Brief Answers to the Big Questions" by Stephen Hawking</a></p> 
+  <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536862019l/40277241.jpg"/></p>   
+  <p><strong>Summary:</strong> The book examines some of the universe's greatest mysteries, and promotes the view that science is very important in helping to solve problems on planet Earth.</p>  
+  <p><strong>My thoughts:</strong> As a strong space-nerd I found this book really interesting. The descriptions and theories were easy to comprehend and overall I gained a lot of insight while reading this book.</p> 
+  <p><strong>Rating:</strong> 9/10</p>
+  </li>
+</ul>
+
+<ul>
+  <li> <p><a href="https://www.goodreads.com/book/show/34377087-mrs-caliban?ac=1&from_search=true&qid=8wIxRKYTkr&rank=1" title="hp">"Mrs. Caliban" by Rachel Ingalls</a></p> 
+  <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488557112l/34377087.jpg"/></p>   
+  <p><strong>Summary:</strong> The slim surrealist masterpiece is the story of a romance between a lonely housewife and an amphibious humanoid named Larry.</p> 
+  <p><strong>My thoughts:</strong> Again too sentimental and romantic per my taste. Reminded me a lot of the movie "The Shape of Water" by Guillermo del Toro.</p> 
+  <p><strong>Rating:</strong> 4/10</p>
+  </li>
+</ul>
+
+<ul>
+  <li> <p><a href="https://www.goodreads.com/book/show/38821039-the-making-of-a-manager?ac=1&from_search=true&qid=BhfyX6pyfV&rank=1" title="hp">"The Making of a Manager: What to Do When Everyone Looks to You" by Julie Zhuo</a></p> 
+  <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548809382l/38821039.jpg"/></p>   
+  <p><strong>Summary:</strong> In “The Making of a Manager”, Julie shares her experiences and learnings with regard to her transition from being a personal contributor to becoming a manager. “This is a book about how someone with no formal training learned to become a confident manager” is the starting point for Julie's book.</p> 
+  <p><strong>My thoughts:</strong> Must-read for anyone who is interested in becoming a manager in near future. The book provides lots of insights and inspirations for personal development.</p> 
+  <p><strong>Rating:</strong> 10/10</p>
+  </li>
+</ul>
+
+
+[Go to the Home Page]({{ '/' | absolute_url }})
