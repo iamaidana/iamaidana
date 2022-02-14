@@ -11,10 +11,10 @@ The new reading year started pretty productive as I finished couple of books in 
 <h2>Currently reading:</h2>
 
 <ul>
-  <li> <p><a href="https://www.goodreads.com/book/show/18166936-the-strange-and-beautiful-sorrows-of-ava-lavender?ac=1&from_search=true&qid=geMYpZ5BP2&rank=1" title="hp">"The Strange and Beautiful Sorrows of Ava Lavender" by Leslye Walton</a></p> 
-  <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397110326l/18166936.jpg"/></p>   
-  <p><strong>Summary:</strong> Magical realism, lyrical prose, and the pain and passion of human love haunt this hypnotic generational saga.</p> 
-  <p><strong>Status:</strong> Started on 12/01/2022.</p>
+  <li> <p><a href="https://www.goodreads.com/book/show/25848636-the-time-traveller-s-wife?ac=1&from_search=true&qid=oxesjB3H68&rank=1" title="hp">"The Time Traveller's Wife" by Audrey Niffenegger</a></p> 
+  <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436025478l/25848636.jpg"/></p>   
+  <p><strong>Summary:</strong> It is a love story about Henry, a man, with a genetic disorder that causes him to time travel unpredictably, and about Clare, his wife, an artist, who has to cope with his frequent absences and dangerous experiences of reappearing in odd places.</p> 
+  <p><strong>Status:</strong> Started on 14/02/2022.
   </li>
 </ul>
 
@@ -48,5 +48,20 @@ The new reading year started pretty productive as I finished couple of books in 
   </li>
 </ul>
 
+<ul>
+  <li> <p><a href="https://www.goodreads.com/book/show/18166936-the-strange-and-beautiful-sorrows-of-ava-lavender?ac=1&from_search=true&qid=geMYpZ5BP2&rank=1" title="hp">"The Strange and Beautiful Sorrows of Ava Lavender" by Leslye Walton</a></p> 
+  <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397110326l/18166936.jpg"/></p>   
+  <p><strong>Summary:</strong> Magical realism, lyrical prose, and the pain and passion of human love haunt this hypnotic generational saga.</p> 
+  <p><strong>My thoughts:</strong> This book was beautiful, at times I was hooked, definitely author knows how to write. However, something was missing for me, or maybe I was comparing to Makondo world.</p> 
+  <p><strong>Rating:</strong> 8/10</p>
+</ul>
+
+<ul>
+  <li> <p><a href="https://www.goodreads.com/book/show/57001544-the-jealousy-man-and-other-stories" title="hp">"The Jealousy Man and Other Stories" by Jo Nesbø</a></p> 
+  <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631800702l/57001544._SY475_.jpg"/></p>   
+  <p><strong>Summary:</strong> Filled with dark thrills, twisted minds and vengeful hearts, these page-turning short stories from 'the king of Scandicrime', will have you reading late into the night. .</p> 
+  <p><strong>My thoughts:</strong> As a big fan of short stories and a recent fan of crime dramas I was fascinated by every story and finished this book in no time.</p> 
+  <p><strong>Rating:</strong> 8/10</p>
+</ul>
 
 [Go to the Home Page]({{ '/' | absolute_url }})
