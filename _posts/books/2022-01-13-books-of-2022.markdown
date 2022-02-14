@@ -54,6 +54,7 @@ The new reading year started pretty productive as I finished couple of books in 
   <p><strong>Summary:</strong> Magical realism, lyrical prose, and the pain and passion of human love haunt this hypnotic generational saga.</p> 
   <p><strong>My thoughts:</strong> This book was beautiful, at times I was hooked, definitely author knows how to write. However, something was missing for me, or maybe I was comparing to Makondo world.</p> 
   <p><strong>Rating:</strong> 8/10</p>
+  </li>
 </ul>
 
 <ul>
@@ -62,6 +63,7 @@ The new reading year started pretty productive as I finished couple of books in 
   <p><strong>Summary:</strong> Filled with dark thrills, twisted minds and vengeful hearts, these page-turning short stories from 'the king of Scandicrime', will have you reading late into the night. .</p> 
   <p><strong>My thoughts:</strong> As a big fan of short stories and a recent fan of crime dramas I was fascinated by every story and finished this book in no time.</p> 
   <p><strong>Rating:</strong> 8/10</p>
+  </li>
 </ul>
 
 [Go to the Home Page]({{ '/' | absolute_url }})
