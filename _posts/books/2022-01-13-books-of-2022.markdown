@@ -14,7 +14,7 @@ The new reading year started pretty productive as I finished couple of books in 
   <li> <p><a href="https://www.goodreads.com/book/show/25848636-the-time-traveller-s-wife?ac=1&from_search=true&qid=oxesjB3H68&rank=1" title="hp">"The Time Traveller's Wife" by Audrey Niffenegger</a></p> 
   <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436025478l/25848636.jpg"/></p>   
   <p><strong>Summary:</strong> It is a love story about Henry, a man, with a genetic disorder that causes him to time travel unpredictably, and about Clare, his wife, an artist, who has to cope with his frequent absences and dangerous experiences of reappearing in odd places.</p> 
-  <p><strong>Status:</strong> Started on 14/02/2022.
+  <p><strong>Status:</strong> Started on 21/02/2022.</p> 
   </li>
 </ul>
 
@@ -60,9 +60,18 @@ The new reading year started pretty productive as I finished couple of books in 
 <ul>
   <li> <p><a href="https://www.goodreads.com/book/show/57001544-the-jealousy-man-and-other-stories" title="hp">"The Jealousy Man and Other Stories" by Jo Nesbø</a></p> 
   <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631800702l/57001544._SY475_.jpg"/></p>   
-  <p><strong>Summary:</strong> Filled with dark thrills, twisted minds and vengeful hearts, these page-turning short stories from 'the king of Scandicrime', will have you reading late into the night. .</p> 
+  <p><strong>Summary:</strong> Filled with dark thrills, twisted minds and vengeful hearts, these page-turning short stories from 'the king of Scandicrime', will have you reading late into the night.</p> 
   <p><strong>My thoughts:</strong> As a big fan of short stories and a recent fan of crime dramas I was fascinated by every story and finished this book in no time.</p> 
   <p><strong>Rating:</strong> 8/10</p>
+  </li>
+</ul>
+
+<ul>
+  <li> <p><a href="https://www.goodreads.com/book/show/25734172-seven-brief-lessons-on-physics?ac=1&from_search=true&qid=nKBAfESHZq&rank=1" title="hp">"Seven Brief Lessons on Physics" by Carlo Rovelli</a></p> 
+  <p><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443551746l/25734172.jpg"/></p>   
+  <p><strong>Summary:</strong> The book condenses the revelations of post-Newtonian physics – from Einstein's theory of relativity to quantum mechanics – into seven brief, accessible lessons.</p> 
+  <p><strong>My thoughts:</strong> I love how elegantly, almost poetically, he unravels such immense topics in order to explain complex ideas in a plain accessile language.</p> 
+  <p><strong>Rating:</strong> 10/10</p>
   </li>
 </ul>
 
